@@ -1,8 +1,6 @@
 ---
-layout: post
-title: Cisco NSO Learnings
-description: Cisco NSO Learnings
-comments: true
+template: overrides/main.html
+title: Cisco NSO
 ---
 
 
